@@ -92,7 +92,7 @@
         "mime": "3.0.0",
         "mkdirp": "3.0.1",
         "mongodb": "6.16.0",
-        "morgan": "1.10.0",
+        "morgan": "1.12.1",
         "mousetrap": "1.6.5",
         "multiparty": "4.2.3",
         "nconf": "0.13.0",
